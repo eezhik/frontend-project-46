@@ -1,0 +1,1 @@
+export default (filepath1, fileputh2) => console.log('result will be here') 
